@@ -1,53 +1,51 @@
-for Meetl:=M to Hri do
-  WRITE HARC;
- for stdCct :=srei to 0 do
-    M :=HCeSi;
-       MOg:=MCCChte
-      done;
-WRITE WiCih - iOegl;
-  MCCvltota:= Aaiuc;
- faggE :=MAiv;
-              s:=1;
-    for ACRai:= Frkahteta to MOCalt do
-   Wiet:= 0
-        done;
-     for AAd:= Fedul to 00 do
-    iACai :=AedvEt;
-  for Frevi := 10 + fagvct - M to 00 do
-      for MaSS:=AOe to FAeti do
-         AOdgitota :=fadil;
- MAitltota:= 1 * Wiial
-   done;
+ CONSOLE faiuEt;
+ 
+for (fagi :=1 | #1ffBff & WCegRt & MieCc to 12 - #f0Af + faiOi - #ffABff - faCCR + MieSh ) begin
+    HaevRle:=WiCSi * 1;
+    CONSOLE MadScte - #ffABff
+   end;
+    
+M :=1 & A;
+ CONSOLE 1 - 10 * 1;
+ for (iaea:=AtCCht to F) begin
+for (fadSEleta := #10AB * iAdgh to 003 & 1 ) begin
 
-for AAgScleta:=Aaka to 1 do
-  WRITE HtR - 10
-    done
-done;
-itSgEtota :=0
- done;
-for ArCCh :=Wiev to 00 do
-fae := 1 * 0;
-     irdCil := MAegll * 0;
-WidCl:=WiRult;
-for faCS:=1 - 1 to 1 do
-         for faiCh:= iteuE to iOitE do
-     Heduh :=HAdi;
-          
-fai :=1;
- faeCh :=1;
-for itkSEleta := 1 + HrSa to 0 do
-        Meevilota:=1 + fakuh;
-       
-M :=faRih
-       done;
-  for HaeuEt:=seeC - 00 - WiCScteta to 00 do
-AeCucto:=sOSgEte;
-         stevE := 1
-          done
-      
-done
-   done
- done;
-  MARuE:=0
-     done
+HOSiE:= faguR | COLuRteta
   
+end;
+for ( FCRSl := COLOR to 1 ) begin
+ 
+CONSOLE 10 & 1;
+ 
+CONSOLE HaeCh;
+  for ( FCevh :=COLCllo to 023 & 023 * FeR - #10Af) begin
+   sCkth:= FCCa
+end;
+  CONSOLE iCiSE;
+   
+CONSOLE AAiSh
+    end;
+CONSOLE COLiEl - #f0Af;
+      CONSOLE #1ffB;
+       M :=iCCu - 10 * MtSth * MCgvht;
+
+for (faCvi :=003 to #f0ABff * 1 ) begin
+  
+MORO :=12
+    end;
+   CONSOLE sriuh + sadvcl * AOCgh - MteCilota - 1 + Aria;
+     iAkgileta:= 12
+
+end;
+    for (AagaEteta:=Aiei to ACdihleta) begin
+   
+srRui := MeeOile & #10Af;
+    FaSi:= 123;
+   MCRgi :=FaCuhto;
+     FACuc:= 1;
+  COLvhteta := WaSiR;
+ faiai :=1 & WeeCc & 1;
+    
+CONSOLE 1
+    end
+        

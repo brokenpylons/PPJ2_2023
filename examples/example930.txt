@@ -1,51 +1,57 @@
- MtCal := iARal;
-MaRu := 0;
-   Htig:=Arkght;
-       for FteS := FCguht to Wiegh do
-                 HARu := sai;
-   Faevit := 10;
-   AtkaE := faegclo;
-      for F := 0 * 1 to 1 * s do
-   for FAktclo:= faeCh + fadgh * M * HAkSh - 1 to H do
-  WRITE saRS
-    done;
-  M := Mriv * 1;
-         WRITE MaeSh + ACe;
-  for ArgCcto :=1 + 10 to i do
-Ftdth:= iOeSht;
-            MeRvhl:= 1 * M
-done;
-       
-FCdti := 1 - MeC + 0 * 1
+ for ( ACiihl := Mreg to 10) begin
+ sAkOh := 123;
+    MOgOEtota :=faCuR;
+
+Mik := 1;
+ for ( ArCact:=AiegRt to 103) begin
+   CONSOLE W;
+CONSOLE 023 * faRv;
+      i:= 1 & 1 + #ffAfff;
+        for ( MrCaE :=faeOR to 1 * COLgh ) begin
   
-done;
-   WRITE HaRuh;
- for fakS:= ieg to 10 do
-      WRITE 10
-   done;
-      for seSgE :=00 to HAegEt do
- for Aaegc:=MaSvl to 00 * 1 do
-          for Meku := ArgS to iACi * 1 do
- MAetc:=Wieal
-      done;
-   fadv:= 1 * 1;
-         MaiS:=faii
- done;
-   WRITE 1 * A;
-       Mtivh :=1 * ArkSi
-   done;
-for ArS:=MaRS + 0 to 1 do
-for WiiuE:= faevEte * 00 to 1 do
+CONSOLE 12;
+Atd:= 103;
+     for (sadCc :=1 to MeCgct ) begin
+COL:= AtRth;
+ HOiOc:=103 + #1fABff - 103
+     
+end;
+          
+COLCElota:=HAdac * HigC - stCS
+ end
+ end;
+CONSOLE fakOEto;
+             for (WietE :=1 to 00 + 023) begin
 
-stgC:=10
+sCigc :=1;
+  Wtiicteta:= M + Fteacto;
+ 
+for (MOeicteta:= COLOi to 1 ) begin
+  for (COLgE:= 1 to 12 ) begin
+CONSOLE 12;
+CONSOLE 1 * 1
+      end;
+  COLg:=A | 10
+          end
+ 
+end
+    end;
+  
+MCkgc :=123;
 
-done;
-MOeg :=steC;
-         for ArRv :=1 to AteShleta do
-faStE:= Mtdi;
- AOetElo:= faSih;
-  AOCCh := Widail
-     done
-    done
-     done
-    
+for ( MeeCil:= MrCSRto to 12) begin
+      
+for (ArgS:=sCevi to HtdOh) begin
+  
+for (MARg :=#10ffff to 103 - AtCaR ) begin
+    M:=FrCalteta - WrdaR;
+CONSOLE H
+      end;
+ CONSOLE 1;
+        
+FCdCE:= seeOht
+end;
+    AeiC:= #10Afff;
+     Hekt :=003 * Mieg
+      
+end

@@ -1,9 +1,7 @@
- for Mreuhteta :=HOgiE * Haku to 1 do
- Aakal := WiCuh
- done;
-   for HCetclo:=10 to 10 do
-      HrSacleta:= 0 - ACdghtota;
-  WRITE Arktctota;
- AAgClt:=fagi
- done
-  
+ AAkC :=FreCh + sCeO + #fffBff & 123;
+         AOCO:= #ffffff;
+ for ( sakvc:=WiCSEt - fagtR to Heeucle ) begin
+    CONSOLE 103 - 00;
+   Miiihlota := 103
+          end
+ 

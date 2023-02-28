@@ -1,14 +1,15 @@
-WiiCEteta:= 1;
-for s := ACdSE * 0 - 10 to faCSEle - 10 do
-                 WieCh := faSgi;
-for MOdaE:=1 to 1 do
-           Hrkac:=1;
-        WRITE iOCii * FOSvit
-    
-done;
-  AOiC:=MCgtl - 10 - 00
-  
-done;
+ Fei := #10AB;
  
-sad:=MCk * 1 - 0 * WiRaE
-         
+for ( COLaE:= 12 to 0) begin
+         COLv:= 1;
+ fakShlo:= 12 + 1;
+    MAkOht:= MCCii;
+
+CONSOLE seet | 0 * MaRgctota + iria - #f0fB + 1;
+ for ( AidSE := Fid to Hreuh ) begin
+ MaS:=103
+end
+   end;
+ 
+AOeuEt:= 1;
+  MOealt:= WACtc

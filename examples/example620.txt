@@ -1,37 +1,35 @@
- for Ariuh := 1 - 1 to 1 * 0 do
-   Mtga :=HCdC;
-for Mrkvc := 10 to WiiCcto * sCia - WieSE do
-    for itgSlt := H to AAdaEteta - WiSa do
-   for FCRS := AteSh to iACaE * 10 - saCuhteta do
-      for F :=10 - 00 to Aeeuh do
- 
-ACSu := 10
-done;
- AARihte :=AOeul;
-                 iAiCl := 1 * 0;
-  
-for sOiuE := 1 to FaRCh do
-  
-FedS := Wie;
-Wietl :=1;
-      for Htktite:= Atgah * 10 to Aekglt do
-     MOeg:=1;
-  
-faetlteta:= 10
-done;
-stCvhlota :=1
+ CONSOLE FCgict;
+    for (fag :=0 to 1 ) begin
+
+for ( FAdvh :=Haegcte to MCegc & 10) begin
+MAiSl:= 10
+    end;
+ W := 02 + sOegc;
+                 for ( stet:= 12 to 1) begin
+for ( Ardi:=1 to 1) begin
+  CONSOLE sCSChtota;
+  Feevc := iASalt
+end
+ end;
+      ireCh:= WOS & 123 * AekSc | itev - Aadic;
+  AOeSi:=Wait;
+   
+CONSOLE faiaite;
+     for ( Atei :=0 to 12 - faigi | #f0Afff ) begin
+   MrRil := AeCac
+    end;
+      M:= 1;
       
-done;
-for AeSah := WikChteta to 0 do
-    irdvEleta:=ACCv;
-     WRITE 1
- done;
-  Wieaht := FakS
-  done;
-    WRITE ArSiite
- done
-done
-         done;
-        
-WRITE HACv
-            
+ieCSlleta := 1;
+for ( MtC := 1 to WOgOEt ) begin
+ for (MAdu := FOStc to 003 + 0) begin
+faeaht:= 1 + faeOEteta | 123;
+      CONSOLE AaiORte;
+
+WOk :=023
+  
+end
+   end;
+        srR:=AORul
+ end
+

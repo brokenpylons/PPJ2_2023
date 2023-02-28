@@ -1,27 +1,21 @@
-srdv := AeeCltota - MtCv;
-   
-Mtdvh:= seeiEle * 0;
-FCiu := 0;
-for HaeCc:= 1 + iORuc to Megvl do
- for faCii := 1 to 1 do
-      for Hagti:= MOSgi + 0 to 1 do
-   FAga := Wikvhte;
-     AOduh :=10;
-AeiSi:= M;
-
-fakt :=AOgvEte
-done;
-sreC:=1 - 1;
-
-faev :=1;
-       ACea :=MeSSl - 1
-  done;
-  ACRS:= Htgv * 1 * 1;
-  iCet := Aee
-done;
-       Hreicte:= 0;
-   Wie:= 0 + 00 - HtSvc - iACvhlo;
-   HARSh :=FaiSit;
-        Mreucte :=WidtE;
-  sAeSl:= Hega
-           
+for ( AeigR:=1 to FreSht ) begin
+                   saSgh :=iAgg;
+      for (Arigh:= seRC * 00 + 0 * Aaiai to 12) begin
+ for (WAevl := siCa to WeCa ) begin
+ HtiCctota:=003
+        end;
+       MARvhto:= 10 * HtCSR + Hegaite
+  end;
+ CONSOLE COLSct * ACeChto
+end;
+ 
+CONSOLE WeRtht;
+  CONSOLE 02;
+                 FCkORteta :=MaCCht;
+    for (MOevEle := 1 to iieaiteta) begin
+     CONSOLE 12
+ end;
+    
+HCdgile :=iCCgEto * iAiuElota;
+  MriuRlota:= 1
+        

@@ -1,26 +1,25 @@
-AORvE:=faCu;
-           for WiCS:=Wietl to 10 do
-      for AeiShl:= Maetclo to AOeS + Aeeilteta do
- AOki :=10 * faial * 1;
-    
-for M:= 1 - 10 to 1 do
-      AOeSl :=HOdCite;
-     WRITE 00
+ for (MtgC:=123 to faea + #10Afff) begin
+     for (MCCuh :=faRvR to 0) begin
+      for (iAduE:=1 to 10 + ArguElota) begin
+        iaSCl:=#1fAf | #1fAB * #f0ff
+end;
+for ( Wrei := 103 to FCit * 12) begin
   
-done
-done
-done;
-      M:= 10 * 0;
- for faiuh := M to 10 do
-    
-Areg :=10;
-    WRITE AaC;
-   M := MegC;
-      faRi :=1 + HAC * FCRCito;
-         for faSCil :=MtRCi to AOdihleta do
-    MOdS:= FreaE;
-   for FOCvhteta :=F + 1 to 0 - iAkgi do
-iAdSlt:=1
-      done
- done
- done
+Atgu:= 1
+end;
+                  MidCR:= Wedv * 123 * faR;
+           HCSSc:= saCScte;
+        CONSOLE WteuE
+
+end;
+   CONSOLE 103;
+  CONSOLE MegOE & ACiiR;
+Maggh :=faRiRt
+   
+end;
+         CONSOLE 02;
+WCSuct:=HCkah & FOk;
+       
+irg:=1 * COLOcte;
+ faR :=1
+ 

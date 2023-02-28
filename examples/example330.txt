@@ -1,21 +1,24 @@
- HARCi:= Fekvc;
-  for ireti :=WiiiE - AeSaEl - 1 * 1 to 1 do
-  for sOeah:= AtdtE to MASSht do
-      fakSh:=0 - A + 0 - sCe + HASCE * 00
- done;
- iOi:= 1;
+seiCi := 1;
+   
+for ( iCgSilo:= 0 * FOCOl to 12 & saRaE ) begin
+   iieu :=MCkti;
+      
+MAkvR := saSu;
+for ( fakS:= 1 to 1) begin
 
-WRITE 10;
-  Aadth:= 0
-    
-done;
- for Meeih:=srkt to 00 do
-    
-for HASCh:=HOgCilo - 1 to M do
-WRITE 10 + faiih;
-        Ate :=10 * 1;
- AAgSit:= faitE;
- WRITE 1
-    done
-    done
+COLul:=ieS;
+   Ardgilo :=FiiOiteta;
+AaC:=AAkgRt;
+   
+MAdaEtota:= 12;
+
+Mrd :=AOgShlota
+   end;
+  AAdSRteta:=faggE
+ end;
+  CONSOLE 023;
+      MrkOll := 123;
+  
+CONSOLE faS;
+          itRvRleta := WagSc
   

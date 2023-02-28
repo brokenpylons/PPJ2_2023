@@ -1,15 +1,13 @@
-WRITE iCgvEto;
-for Arig:=1 to 1 do
-  WiiShtota:= FedgE - 10 - 0;
-   for MCiu :=1 to 1 do
-MARiEto:=MeCi + 1;
- Aagg:=MaeuElota - FrgaEle;
-for faRv :=10 to 1 do
-     AtSSc := AtSihleta - 00
-   done
-      done
-  
-done;
-iOCac := 0;
- WRITE 1
-                   
+faSuRleta :=0;
+iOdvit:= WtCO | 1 + 1 - 1;
+  CONSOLE #10AB - COLS * 1;
+           CONSOLE iCkuh;
+
+CONSOLE 1;
+       faRtR:=1;
+       
+for ( MAetl := 123 - FORi + #1fAfff to MCdgcteta * iida) begin
+    CONSOLE 103 * 1 * 1
+     end;
+    MOCacteta :=1
+   

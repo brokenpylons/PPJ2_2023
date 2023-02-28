@@ -1,3 +1,6 @@
-WigC:= Wiegltota;
-         Wigac:= MaRSito - 10;
-            AARCi:= HeiaEleta
+for ( iii:= 12 to Mekal & 02) begin
+CONSOLE MrCS
+   end;
+  
+AORgE:=#f0Af
+    

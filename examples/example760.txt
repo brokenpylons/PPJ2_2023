@@ -1,44 +1,39 @@
-for M:= Wie * Feeth + FCithlota to 0 do
- WRITE FCegh;
-  
-fadvh := Atei + Haeailota;
-     for MrCCct :=0 to seeS + 1 do
-   WRITE 1
-done;
-  AOiail:= sORu - FrCvi;
-MOei:= MaRi;
-            for AAeChte:= Megghleta to 0 * 10 * MORCc do
-         for fadailo :=Mtda to 1 * 0 + 1 * 0 do
-   
-WRITE AASg;
-    
-WRITE 1
-done;
-iaeSil :=1;
- irCahto := H * 0
- done;
-  F :=1;
-       faC:= WiRghteta - 0;
-  MCkui:= 10 + 1 * 1 * 0
-   done;
-   
-M :=1;
-     
-for A:=Aekuhte to 10 do
-for sCev:=1 to AaRvh + 10 do
-            for sreiito:= Aaethte - MaCu to 0 * iAktc - WiRvE do
+ fadS :=#10ABff + 1;
+
+CONSOLE AiSSl;
+MtgOh:= 0;
+  CONSOLE 1;
+  for (sAkaE:= 1 to #10ff * AAiSEte * 0 * COL * HeduRt * 1 + 0 & Hiduite) begin
+           sadahto :=A + 0;
+   for (irdvR :=1 to i ) begin
+      for (HCSOh:= 10 to Mie ) begin
+     CONSOLE AaiuE;
+     itSt:= 10
+
+end;
+     for (sreuhto:=fagOEt to 1 ) begin
+ AeeCl :=00
  
-sCdS:=10
-done
-  
-done;
-  FrgSE := s;
-        for fakg:= AeCSl + Mrkuileta to irei do
-   iCCCl := 1;
-        s:=10
-  done
-  done;
-      fadih := 0 * Mtiuhto * MCRilleta;
-  AARgh := 0;
-    FrdCc:= H
+end;
+CONSOLE 0;
+for (A:= 1 to 1) begin
+             AOd := MeRvh * MOeulto
+ end;
+      
+for (WOkgh := 0 * #f0AB to MrROhte + 1 ) begin
+           for (AOR:=10 + WARa - 0 + 10 to 103 & COLait ) begin
+        for (faRgil :=#ffAf to 02 - 10 ) begin
+ WadCEtota := COLt + 10
+ 
+end;
+CONSOLE 0
+                    end
      
+end;
+MaCSl:= 023 * Ateuc * 123
+              end;
+ F:=1;
+      CONSOLE 00 + MOgvit
+    end;
+M := WACiE + 1 - 1
+    

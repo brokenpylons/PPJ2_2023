@@ -1,60 +1,48 @@
-for M:= Freu to M do
-    WRITE ACkuh;
- for Wiegileta:=0 to ACe * s do
- WikiEto:= FOgglt;
- faCt := fagvEt + 0 * MOkS + 10;
-MtRth :=Ark;
- for AOeClte:= stRChlota to iOea do
-  AORSl :=0
-
-done;
-for s := iASai to 10 + 1 do
- MrkaEl:=1 - F - 0;
-
-srkihte:=FOdicteta * 1 - 1;
-     WRITE Atdtht + 10
-
-done;
- WRITE MtkS;
-    A :=10
-       done;
-for sCeahteta :=F * Mee to fada do
-   iaSuE :=0;
-MASt:=1;
+for (sri :=12 * 1 to MiRvcl ) begin
    
-Mrdah:= Frggh - H - iCeaEtota * i;
-HrCg := MASSl - Aadih;
-  fakv:= 1;
-     for Hrk:= HeSii to sARah do
- 
-FCCt := 1;
-Hrgai:=0
- 
-done
- done;
- AAdvhl:=sORa;
-iaSii:=10;
-   
-faiu:=0 * MaeS
-   done;
-HASgcte:= 1 - 1;
- HaSah:= iAigitota;
-   
-faS :=10;
-Widvct :=HCiCi;
- for saguh:=10 - fadgcte to sagv do
- for ACSvEleta:= 0 to 1 * faiih do
-   for AAgCi :=1 to HaiChtota do
- 
-stRSc := 10
- done;
-
-MtRth:= fadSh;
- for A:=s - 0 to 10 do
-stCtitota :=ACkiito * iAiui
- done;
-   FAetc := FOdiltota
-   
-done
- done
+AOiu:=12 - ACdal;
+for ( F := Wtgaht to Aeev ) begin
+     for ( s:=COLOi to 1 - MAiOi + 00 - iOgSh) begin
+ COL:= 1;
       
+CONSOLE faSCilo * iregct;
+CONSOLE MAeu;
+   MteaR:=AteSit - COLShlota
+        
+end;
+         CONSOLE 123 + MaRuh;
+         for (MAeSE :=1 * COLic to sAeOh) begin
+  M:=1
+end;
+   itgvh:=1
+       end;
+
+CONSOLE 1
+end;
+       for (iARthte:=COLih to 10) begin
+for ( AOkO :=MietR to #1fAf ) begin
+     
+for ( MAe :=iaethte to srdCl * 10) begin
+  
+for (MtROE := MtSuhto + Waevh to COLv * 10 ) begin
+          MOeiRle :=MrSSc
+              
+end
+  end;
+  srSS :=10 - 123 - 003;
+  fadvitota:= MekOc;
+ WtR:=1;
+     CONSOLE 1
+   end
+      end;
+ CONSOLE HAe;
+     CONSOLE 123 * 123 * 00;
+          MOdSE:=103 + 1;
+ CONSOLE Are;
+ for (COLiEteta :=0 * 1 to 12 + 1 * 1 | 1 ) begin
+       siiC := seSult;
+       AARu :=1 + 02 - ACiicto
+
+end;
+HadCl :=1
+ 

@@ -1,50 +1,47 @@
- for faguh :=WiSvhleta * 1 - FOdg to ArkShte * FeSSlt do
-   Mrd :=1;
-  for AeSiit := 10 to FakSh do
-   Maea :=1;
-  for iOegE :=Fre to AagiE do
- for faSg:=1 to Ard - Meeuhte - Mrgult do
- 
-MaiCil:=Wikih;
- for fagScte:= ACiCl to MOkii do
-     for FekS:= 0 to WiSCElo do
-for FCitcte:= 1 to Aegalle do
-Arev := AreaEte
-    done;
-    H := 1
-   done
- done;
- WRITE Ari
-done
-  done
-  
-done;
-faCgilota := 0;
- for saeaE :=0 to sCeCc * 1 do
-     for MASgEt:= 10 to iOk do
-           MreCito:= 1;
- WRITE 10
-       done
+CONSOLE Mikai;
+for ( AaCu:= 02 to 12 ) begin
+    COLOh :=saSuh * HAeOh;
+   M:= sOdtEto * 103;
+   CONSOLE 12
+   end;
+           for (faiSi:= 10 + 1 to 1 * H) begin
+     for (WCCuct := 1 to fadiR ) begin
+ AeCCh := 10;
+for (faC := 0 + 00 to COLt * #1ffBff & 12 & COLS ) begin
+FaSih :=COLuRl;
+   for ( F:=#f0Afff - 123 to WaeiElota & 1 ) begin
+    CONSOLE 1;
+   CONSOLE COLiE;
+for ( fakgi :=123 * irdghte & FAdOc to AOR ) begin
+         Ftgti :=02;
+COLgh:= 1;
+ Maet:=faRvh
+  end
+end;
      
-done;
+fadulleta := COLvR * #f0AB
+       end;
+   COLah:=steth;
+sAR:=10;
     
-for iCgCll :=00 to Ateul do
-            for MAkgh :=0 to 1 + 00 do
-AtCu := 00;
- for saggc:= AaCShle to 10 * fakih - 10 do
-for WiRicteta := Ard to 0 do
-     seCChl :=1;
-        A :=10;
-     faevll := 1
- done;
-  for HCCtht := MaevE to MCdg do
-    i:=1;
-fae:= iCkvcte
-   done
- done
- done;
- faivi:= fakth
-      done
-    done;
-  Aeealto :=iagCEt * AteuE
-            
+CONSOLE faeSi * 1
+   end
+           
+end;
+   iCkaE :=#ffffff;
+    M := WOdtlt;
+         for ( FtiO :=Frdt & 1 * FtS to HASOit ) begin
+  
+WeRt:=#1fAf;
+HrSth:= 103 * 12;
+  iOki:=10;
+  Mtetilo:= 1;
+       CONSOLE 0 + F;
+FtCi :=WOdt;
+  for ( COLuE := 023 to Widicleta) begin
+   
+AteC := Wtethle;
+ CONSOLE 10 * WadCh;
+WCeu :=1
+end
+ end

@@ -1,61 +1,51 @@
-for fakuhtota:=AACv - HASS * 10 to 10 * WieCEtota - 00 + 10 do
-for Atit:= 00 to 1 do
-       stdC :=MaCuh;
-   for faRuhlo := Mtg - Aaeu to Hretit do
-    
-FOR:= WiStE;
-  WRITE itkvlteta;
-  FOCuEt:=saeSc;
- for sOethto:=faevct to stiu * 1 do
- A:=AtRu + 10;
-   
-for seRCl:= sreah to faR do
- M :=10
- done;
-ArdSlt := Wie * Ftk + MCetE;
- for sAial := 00 to irSuc do
-         for FCiCh:=10 to 0 do
-   stkChlota:=Mrgt
-  done;
-   MAS := sACtE;
-            
-FedCi :=faiSE;
-Mti := 1;
-   for MtevElota:=10 to 10 * 0 do
-    
-ACSa:= MrgCht;
- faSiE := 0;
-  WRITE 0;
-              iaRt :=0 * 00
-   done;
+ iASg := COLgRle & 123;
+CONSOLE AtgaRt;
   
-faeg := WiCC;
-for sCeCl:=1 to 0 do
- 
-fag :=10 - MAevEt
+Higglte:=AACuE | FCkOileta;
+  for (MOeOl :=ACiORl to 0 ) begin
+       for ( irg := 1 | MeiCR to 0 - FOgOi ) begin
    
-done;
-    Htgihle:=faeCE
-  done;
-  A:=Mriil
-   done
-done;
- for AtSa := 0 to 1 * M * 1 do
-    saiih :=sAk * AOdtE;
-  WRITE FtdSlte
-   done;
-fada :=MAS - 0;
-for HAgvi:=1 to MOeiE do
-  srCuhlo:= A * 10
-      done;
-      
-FACuEl:=1
-  done
+FCdaE :=1;
+   Feet := 103 & #10ff;
+COLO :=Mrkvi * 103 - MAgih * 003;
+ iee:=W;
+iCSti:= 1
+end
+ end;
+ for (WCeOiteta := srkC - 103 | 00 to 1 ) begin
+for ( HaROEt := 1 to HOgvht ) begin
+faeii := 1;
+  Aeiahto:=103;
+        CONSOLE 123 * AtetE
+ end;
+      CONSOLE WAdtct & 1;
+           Atitl:= sOSSi
+
+end;
+for ( WaSahto:=faiOcle to HtdC ) begin
+  faCCEte :=AidCct | 123;
+ COLt :=M
+       end;
+     for ( FrSS:=MeCCite + 123 to 1 ) begin
+for (AtCt:=1 - #f0ffff + Weivh & 123 * 00 to 10) begin
        
-done;
- for faktEt := Wiiilto to 1 do
-   Wig:= 1 - Ftegi + 1;
-stiiEleta:=0;
-   MCguh :=0
-         done
-            
+MCCtR:= 103;
+   CONSOLE 1;
+WadCl:=0 - Madvhto;
+          CONSOLE #ffffff
+ end
+ end;
+Aedgh :=#10Afff;
+   CONSOLE COLC;
+   
+for (FAea:=faS to #f0Afff * 0) begin
+      for (FCgvh:=ArCt to AeSOh + 003) begin
+    for ( AiiO:= 0 to WietE ) begin
+          CONSOLE 123 + 00;
+ 
+iOgS:= #f0Afff
+   end;
+ CONSOLE 1
+       end
+ end
+                        

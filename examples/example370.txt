@@ -1,20 +1,19 @@
-for Meev:= Wiegh + iaiaE to faCuite do
-    for iCSSlle := Widvhteta to 10 - FeSvhlo do
-      for iakui:= 1 to Htevileta + 0 do
-     for faCgitota :=0 to 10 do
+ iCgvhto:= 12 * WreOR;
+         for (sACv := MAdtR * 10 to H - 123 - 023 + 1 ) begin
+ for (WiRCcl := #1fAB to 1 | 103 * faC ) begin
+W:= Aie;
+ArdiR:= HAgtEl;
  
-WRITE saCi;
-       WidSh:=1;
-  AaSaEtota :=stCuhto * 00;
-       WRITE 00
-
-done
-       done;
-   iee:= 10 * 00 + Wieil;
- Arigllo:= 1
- done;
-Ftd:= WiRtc * irguhteta
-   done;
-Wikah :=10;
-       itgaito :=ieeah
-     
+Maiti := iai + 1 * 1 + COLiE;
+  CONSOLE 12;
+      WCgaltota := COLOl;
+  MtCSitota := 1
+   end;
+        sCdvh:= A + i;
+     faSth:= MiR * 1;
+Wrgvl :=12;
+        
+HOiSi:=AOdSh
+     end;
+   CONSOLE WCeCh - 1 * 12
+  

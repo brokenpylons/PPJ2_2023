@@ -1,24 +1,21 @@
- WRITE 0;
-   for MCRSl :=sCgi to 1 do
-            HORa := Ate;
-
-for Mtighl :=seevE to Wieu do
-    Mtev := 1;
- AOdihlo:= ieeCh - saSiE
+for (COLCE :=1 - Freu to 103 * AeeOh & WCROi) begin
+          
+for (iCdvhto := 0 to FCgOilo ) begin
+ AtgChto:= 1 - MiC;
+    HOSu := 103;
+H := COLtlle
+end;
+for (M := MORvhlota to FAigh) begin
+    
+for (Hrgtl :=12 * 123 to Ftkvl) begin
+ irSSc :=Aie
+end;
+MAet := AaCiR;
+       CONSOLE 103 & COLth * #1fAB
+end
+ 
+end;
+     sOiS:=1;
+        Arighleta:= COLOc - AOgClt * faeai | 0;
+      CONSOLE #1fAB
   
-done;
-    faeahlo := 00;
-  
-AAg:=iaSuhteta * MOiillo;
-HORa :=itCu;
-  MekSctota := 0 * Widvht
-  done;
-   HtiCh:= 0 * AeSCE;
-WRITE WiiC;
- for Mteth := 1 to Wie do
-     iaduEle:=10 + 00 + s;
-       AAggilo:=0;
-  iaevi :=MARgh
-    done;
-     WRITE FtRS
-      

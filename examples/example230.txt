@@ -1,15 +1,12 @@
- AaCah := 10;
+ for (MeRiEteta:=#f0Afff * s to 1 * Areah - iaRil ) begin
+ 
+fak:=1
+        
+end;
+  for ( Wieaclo := Mrduite to #fffBff + 02) begin
+ for ( WeiaR:= Madah - faSahte to 1) begin
+ sedvhto :=saet + 123
+end
+       end;
+          AASahto :=023
 
-for WidaE:=A to 1 do
-               fagalt := 0 - Wiet;
-      WRITE HOdghlota;
-FrSth:= 10 * MCgaht;
-         WigCEteta:=MOeSlte * 0;
-
-for faevh := 0 to MARtE do
-  irdC:=10;
-                   s:= 1
-done;
- Wiet:=1
-  done
-   

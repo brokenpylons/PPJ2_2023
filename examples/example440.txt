@@ -1,27 +1,22 @@
-for faCih:=FAdui to Aeegi do
-  for sOiallo := 1 to iCkvhte do
-
-ACka :=iteCl;
-for Wiet :=0 to HrkvE do
-      WRITE 1;
-Feegl:= Widt
-done
- done;
-   for FAkS := 10 - 1 to 1 do
-    F :=Argtcteta - HeS - Widtl;
-Atgvl :=ACgvh;
-sagghto:=0;
-   Mrkvh:=Atdgc;
-FCit :=0;
-faCtl :=Mretil * 0 * 1
-      done
-done;
-for fak:= fadaclo * 10 to i + A do
- FtSClt :=Widv;
-         MrdC := 0;
-   for WiRa:= FASui to Mrii do
-      
-Wiktilota:= 1 - steg
-     done
-done
+ for (A :=12 to 1 ) begin
+          for ( COLvRlo := Maiiclo to 1 * faiSl) begin
+    Mtdv := Htial;
+    MreScte := FrCtE
+ end
+ end;
+  MORt :=AOiCR;
+      stRu :=0;
+   MOdC:= 0 - 10 - FeeOitota | HrdO;
+     
+for ( iakui :=faev to AiRiEtota ) begin
+               AOkClteta := ACk + 103;
+                    
+WCivil :=#f0Afff - 12 - 12;
+             
+CONSOLE sekuE + 123 * faevEl;
+  CONSOLE M;
+       
+Wrkvh := iaeg
+end;
+CONSOLE MtdShteta
      

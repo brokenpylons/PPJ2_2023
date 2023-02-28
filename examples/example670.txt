@@ -1,40 +1,40 @@
- WRITE 0 + saCa;
+MtCOE:=1 * MtdOc + 123 & FiCihtota;
 
-iOgvh:=00 + Meeil;
-
-WieaEl :=1 - FegiE;
-HAdvEto :=1 + H - Widahl - Aekti - WiCvc;
- for faCC :=HedClto to Wiea do
-for faCght := 1 to 0 * A do
- MAiv:=0;
-           
-for fagti :=ACRvlto - 0 to AAC - 00 do
-ArC:=MekSc
+Ate := 123;
     
-done;
-for Mtg := 1 * Aeeuctota to MCiuEtota do
-M := iakSc;
-     WiRul:= 10
-     done;
-  
-for Fak := HeSul to 00 do
-         WRITE faeii
-       done
-    
-done;
-for saSiE := faCuh to AOkact do
-             irdght:= iCCScte;
- for MOSCE:=Frdt to 1 do
-   
-for Meiv:=1 to AeCvc do
-  WRITE MCCvEl + 10
-   done
-done
-done;
-      for Wigv := F * 1 to WiSClt + 1 do
-                   sAduEl:=i
-   done
-    done;
+for ( stkOEto:= #1ffB * 1 to #10AB & 103 ) begin
+MOeCcto :=1;
+ for ( Higgc := #f0ABff to 1 * 1) begin
+     WrdSc :=10;
  
-WRITE FCegh - Meeul + MAiChl
-   
+for (WrSt:=1 to iidSlte ) begin
+   s :=faiii;
+  CONSOLE 12;
+    CONSOLE A;
+CONSOLE seRCc;
+            CONSOLE 00
+ end;
+CONSOLE iieii;
+       MiSC :=123 + 123
+end;
+for ( sARSR :=1 to COLvitota + WeRallota) begin
+      Weighl:= faeiit
+    end;
+  
+CONSOLE srkCile * 123 - 103 | 1;
+        for ( faRu :=0 to 103 - WCevh) begin
+COLuE := 1;
+ HtCS:= 1;
+    for (WOCtht := 123 to #ffABff * A) begin
+
+MidSR :=FeSO
+ end;
+ MORuE :=FOiiE;
+ 
+CONSOLE 1 & 103
+ end;
+
+CONSOLE 1 & 1;
+   CONSOLE 023
+    end
+      

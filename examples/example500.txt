@@ -1,31 +1,25 @@
-M :=1;
-    for MrkC:= 1 to 10 do
-    
-Mregi:=iORSh
+ for (iedSl := 12 * i to fadt * iieg ) begin
+for ( s:=AAetRlota to 1) begin
+   COLCl:=WAda
   
-done;
- for ACe:=0 to 1 do
-    for HOdi:=iak to 1 * 00 do
-              for fadv := FaktEt to WiCv do
-
-for HtStlteta:= 1 to 00 do
-  for seStE:=1 to ArCClto * 00 - faeSlteta do
-    AaRgEtota:= 1 * 1 + 1 * HtSil;
-    M := 1 * HrCSE
-    done;
+end;
+for (AOe:= 12 + 0 * HAguR - FCCtR * #f0fBff to 123 + COLOc) begin
   
-WieaE :=M - FAdi * 1 - 1 * MAe * 0;
-WRITE 0;
-      F:=sAgti - HOeg
-       done
-    done;
-           for A :=1 to 1 - FOegEl do
-         WRITE H
-
-done;
+sCkii:= Mtdth;
+COLiclo :=0 + 023 * MAgt;
+    COLait:= 00 * COLv
+end;
+FrSO :=12 - 1;
+for ( W := faRucte to 123 ) begin
+ CONSOLE 1;
+     COLaE:= HAkuileta + 1;
+    COLi:=WaStctota
+ end;
   
-Aretl :=00
-done
-        done;
-     MAgac := 10 - 10
-    
+CONSOLE AieShte;
+ HOkgi:=MCeuclo + irdvhl - 0
+   end;
+             faCS := WaCC - #f0ff + W - HeeS & WtRSh;
+   MOeiR := 1 * 1;
+M:= i
+              

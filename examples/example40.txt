@@ -1,3 +1,3 @@
-MtRacto:= AOga;
-   MOkvhto:= FOeahteta
-      
+ MAeu:= 103 * ireOilo;
+ CONSOLE 003 * 00
+  

@@ -1,32 +1,31 @@
- MeC :=saeictota * 1;
-    for Meeahle:= 1 to 1 do
- Magihl :=00 + 1;
-         for faduhto:=MAetilota to ACCCE do
-  WRITE 00;
-    for HtdC:= 1 * MCdgc to faRSlt + M + 00 * 1 do
-s:=1;
-   for MOg:=1 to 10 do
-     irku := MeR;
- AAgihteta:=MAgC;
- WRITE MASSEteta;
+ FaCi :=A;
+ for (iOktR := 12 - 1 to COLi ) begin
+     Wtet :=#1fAfff
+   end;
+       CONSOLE 1;
+           CONSOLE s;
+   for (MaSv:= sCRac * 1 to 1) begin
+          COLOcto := 123;
+   for (Meku:= 10 to 00) begin
+ for ( WaeSR := 1 to 1 + 1) begin
+      COLtEle :=W
+ end;
+        CONSOLE 1;
+   COLOhtota:=WrCi - 1;
+   
+HrSuR :=#ffffff;
+     faith :=0;
+ 
+i:=1
+   end
 
-WRITE 0
-            done;
-      ArCC:=WiCtllota;
- WRITE 1;
-  seea:= ACRihtota - faRaE;
- for fadil:=HrRuh to 0 do
-       
-WRITE 10
-          done;
-           MtRClt :=1;
-   ArkuE:=HAeS
-done;
-    FCSui:= 0;
- M:= 1
- done;
-Wikg :=WigChlota - fakC;
-
-fagghleta:=0
-done
-  
+end;
+  FAkOl := 00 * MrSSite * 00;
+      
+for (MeRa:=M + 1 to 02) begin
+    for ( Faegl:= AeCSc - 10 to HaduE) begin
+  WCe:= MagiE
+end
+ end;
+ FOiS:= #1fff
+   

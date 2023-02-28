@@ -1,39 +1,35 @@
-for faSuhleta:=HriSiteta to 00 do
+ CONSOLE 1;
+ for (HCSthtota:= AakO + 00 to Migu ) begin
+sigv:= Hadg;
+      for ( Area:=0 to MiCiiteta) begin
+     CONSOLE AiSCh;
+      for ( WAeultota:= 0 - faCall * iOg - 1 to saSa - 023 ) begin
+ sAd :=1;
+     COLgE := Fedth;
+         AekgRtota:= COL
+   end
 
-F := saevhteta;
-          for MeRght := 0 * sOiuctota to sOeCc do
-           Wigu := Mekih - AadCl
+end;
+          COLCh:=A
+ end;
+     for (Mieuhto:= AteCR to A) begin
+  for ( AOCvi:=103 | iidS + #1fffff to 023 * 02 * COLtl) begin
+HAdtiteta := 1
+  end
+   
+end;
+     for ( faRalteta:=#f0Af to HrkOE * #10ffff * 10) begin
+Ateg:= MiiOcto;
+  faRvEteta:= MAStile;
 
-done;
-           HeRv:= HekS;
-        for Wiet :=faiC to 1 do
-  
-sCSvhto:= 1 + AAgght;
-       WiS:=MtRCi - Mtggi
-  
-done;
-   for Atkihto := iAev * 1 to M do
- for Wik :=sOkg to 1 + Meeu do
-for MOe:= Wieg to 1 do
-WRITE Wieg * sagC
-
-done;
-   FtiS:= 0
-done;
-for AORCEle:= fadth to 0 * iae do
-  FrdChle := MCea;
-AaSthleta :=10 + i
-        done;
-        H := 1
-done
- done;
-   for sOdt :=FOdtl to WikSit do
-  for iaea:= 00 to MCRSl do
-      for Wig:=0 to 00 do
-HeC :=MORuh
-   done
-done;
-                    
-i := 1 + ieRaE
-done
-
+for (siRuc :=103 + 123 to 1 ) begin
+  MtRCcle := #1fAfff;
+  HaeS:=AOdg;
+CONSOLE sOC;
+ 
+M:= MeStiteta
+  end;
+      
+CONSOLE 00
+    end
+    

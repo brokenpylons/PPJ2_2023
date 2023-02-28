@@ -1,28 +1,25 @@
-MCSvcl:=HCdui - Mreihtota;
-       WRITE 0;
-   AOethle:=10 - 0 + HrCaclota;
-     
-MaSC:= 0 - 1;
-   iASucle := irSShl;
-   for Mrii :=FadCh to AagiE do
- Atdull :=HtCChtota;
- MCRiE:=1 + AAkSl + 1 - s * AAiCc;
- Wiga :=MteC - sCduE - 10 - 10;
-           WRITE MeeC - 1 * 0;
-for HrCtE := 00 to fag do
-  
-MORgh:= 0 + Heg;
-      
-iedacleta :=AACvE;
-
-for Wieuh := A - 0 to 0 do
- WRITE WidaEt
- done
-   done
-          done;
-      WRITE 1 * 10;
-
-WiiC:=H * MCkvh;
-WRITE sadac;
-  ACdah:=ArCvi
-     
+for ( A := #10ABff + Aaiah - Hiktl to FeeC ) begin
+  for ( COLSitota:= 1 to 123 + 103 + 1 ) begin
+   Aid:= M & 123;
+          AaCg := 0;
+  sOeCite:= MiROl + 023
+        end
+end;
+for ( srdSE :=1 to 1 + COLv * 1) begin
+    for ( MrSi := fadicteta to 10 ) begin
+A:= MievR;
+  Aieahle :=0 - A;
+ Wedvc := faSO
+ 
+end
+       
+end;
+     Mreii :=HaSChl * F * MegCh;
+  for ( MCeuR:= FreaEt - 12 to 0) begin
+ FOCv :=10;
+    MAkiRto :=Aigght;
+     AOdiEtota := W;
+  CONSOLE 103;
+FARic:=0
+      end
+ 

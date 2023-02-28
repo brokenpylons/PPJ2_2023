@@ -1,40 +1,33 @@
-faCu:= MORChto;
-  faCCh :=1;
-     for AaRi := 1 to 1 do
-         
-FAiS:=1
- done;
- Ariic:=srku + Hre;
-                    
-for MCigh:= AedSi to 1 * FAgaEle + 10 do
-  for itdul := 0 + M to faeuht do
-WRITE i;
- iaeu:=Mteac
- 
-done;
-              for AaiS :=saRah to 1 + 10 * 10 * MAetc do
-            MCgS :=FAdSl + 0;
-AeRah := sARSEt + sCkthteta;
-for WieSctota:= Madvc to 00 do
- for AOdglte:=Wida to 00 do
-fakgh:= 10 * 1;
-     faSgE := 1 + 1;
-    
-H :=Haku
- done;
-   for FCkt := faetilo to 1 do
-     sOiCEt := WikSito;
- 
-Atevi:= 0;
-       sARg :=MCgaE
-  
-done;
-        WiRuEle:=00
-  done
-      done
-    done;
-         MCSul := 1;
-   HtSvE:= 1 * WiR;
+for ( MOCvEteta := ACkthlo + 12 to HAei) begin
+    AreOltota :=FrCvlt * 123;
 
-MOiCEteta:=0
+COLuht:=1 + 023 - 1;
+      MeSv :=123 | 123;
+       CONSOLE #f0Afff;
+  AidOR:= Atdvlteta;
+ for ( faeS:=AOkCh - 1 to 0 & #10ff ) begin
+for ( faRvRtota:= 12 * Feevh - A to AAki ) begin
+       M:= Mrkuhl * 00 + 10 & 0;
+ for ( HeeCc :=#ffABff to Wigg ) begin
     
+fakSht:= 1;
+          CONSOLE 1;
+for ( faRu := #ffAB to FiRtEt) begin
+   AARuc:=023;
+Weev:=i;
+ CONSOLE 023 | 0 * 123 + FaeSc
+     end;
+  FOka:= COLSctota
+         end
+           end;
+      CONSOLE fak;
+       FOdg:=123 & W;
+ 
+HAkSE:=1;
+Midvhte :=siRuctota | 103
+     end;
+   fagg:= 1
+    end;
+       
+ACROh :=1 | 1 * AORv
+ 

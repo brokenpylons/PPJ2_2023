@@ -1,32 +1,29 @@
-for AOiSc:= fakg to 0 do
- for stduhte :=HCSg to 1 do
-   iORahlota :=10;
-FCR:= 1;
-    Wieaht := HAkul
-done;
-        for AaRSc:= 0 - faRgE to iAetc do
-       
-for AteCl:=1 to 0 - srSu do
- for HCSih := faSt to 00 do
-  for MAeS:=00 to sOSg do
-              AASahl :=Wiiiit + sARu;
- WRITE 1 - 10;
-      
-FCkClto :=10;
-  s:=iAetElota;
-    WiSS :=00 - 1 * 00
-   done
-done;
-     iCRuE := faevl * 1;
-faCi:=sag
+for (M:=MAk * 12 to #1fAf - #ffAfff) begin
+           COLt := HOiuE;
+   for (Fegu:= FreSi to 10 * Mregh) begin
+            CONSOLE F;
+      MaStRtota:=02;
+ACeCRt:= 123;
+  CONSOLE WCi;
+       faigilo:= sigall
  
-done
- done;
+end;
+  sORah:= 10 | FCkS;
+Ati:= #ffAf;
   
-for Mregll :=WieCE to 0 do
-  for MriS := fakuE to faeih do
-         AtCic:=10 * 1 - 1;
-F:=Wiivh * Aaeih * 10
-    done
-     done
-   done
+for ( Fii:= MaiCi to MaeS * WrCO - H) begin
+segg:= AreSi | 1
+end
+  end;
+          for ( iaeSh:= 1 to FAeah) begin
+  Wteghte :=MiRCltota;
+ 
+iAe := HOdil | 103 * 023
+       end;
+        for (FtiCEteta :=Wtg to 10 * WrRuite ) begin
+     
+CONSOLE 02;
+        Aeet := ArRt;
+        MrROi:=faS
+   end
+     

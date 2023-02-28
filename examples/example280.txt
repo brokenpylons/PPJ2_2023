@@ -1,22 +1,16 @@
- for M:=1 to 1 do
- MOCSlte:= iCeiElo
-  
-done;
-  for stSiE :=iORShleta to 1 do
-             WRITE i;
-        WRITE 1;
-Wiku:= 10
-    
-done;
-  sASi:=seevil * 10;
-        AaSgh:= HrCS;
+CONSOLE 1;
+
+for ( COLii :=1 to 123 ) begin
+ M:=Maeahtota;
+   for ( MtiuEtota := Weig * itCOl - AakOR to WrC) begin
+   
+HteiR:= A + M;
  
-for itR:= WigSi to i do
-      
-MAkiht:= 1;
-faeth:=10;
-    WRITE 1
- done;
-    
-AAkillota:= Mteahto
- 
+COLahtota :=AiC * AtgtR + 1;
+for ( AieuE := srRvE to 00) begin
+AACvhlo:= HiegRt;
+MOegE :=#ffAB
+             end
+   end
+  end;
+MCiuilo := COLult & MrRu

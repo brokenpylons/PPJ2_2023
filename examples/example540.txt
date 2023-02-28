@@ -1,32 +1,31 @@
-for Wieu:= Fteacto to Meitl do
-WRITE 0 - 1;
-
-H :=ArCCit + F - Widgi;
-        FOeSl :=sOCShtota * 10 * 0;
-    WRITE 1
-   done;
-srSi:= faial;
- WRITE 0;
-stgtllo :=Atdil;
-       for Wieg :=1 * iaea to Mretltota do
-            WRITE 1;
-   for iCeu:=1 to WiS do
-       for faRSE :=MOkSh - 10 - sagCh to iAdi do
-    MtRvlt :=00;
-   iAkii :=M * 1
-done;
-      Wikaltota:= A;
-     for MrCCE:=00 + 1 to Medgi do
- Wigtitota:= 10;
-  fak :=1 * MreSl + FaRa
-   done;
-             
-sOCS:= 1;
- 
-AOducte:= Aekgc
- done
-    done;
-      
-WRITE 00 * 1;
-  MrCvEleta:=0
+ CONSOLE itSah;
+  for ( COLtc:= WeRa to WtSt) begin
+for ( AiRSR:=10 to AOCti | 10 ) begin
+FAS:=seC + 0;
   
+ACS:=iOgah + #f0AB * 1;
+   for (MORiE:= #10Afff | COLtct to 0 * 103 ) begin
+  HrgtR :=AARaito - WtROR + AedChtota;
+    WARict :=faeSh * 12;
+
+M:= #f0fB;
+CONSOLE 02
+end
+     end;
+ for ( WCeSit:= 12 to Wteuh ) begin
+         AtRORlo:= 1;
+HtSglte := Mtiu
+end;
+    
+for ( COLCh:=MCdS to #ffAf ) begin
+ 
+CONSOLE HtCSc * 10 - MtiS;
+          COLi :=0
+ end;
+CONSOLE stdvh * 0;
+ ArSOl :=02
+     end;
+     FigCE := Meev;
+iORahto :=103;
+saeth:=02
+    

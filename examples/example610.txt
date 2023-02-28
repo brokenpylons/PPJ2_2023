@@ -1,36 +1,33 @@
- for s:= 10 to 1 * Wik + Mrevh do
- Mrk:= faRalto;
-        
-for itkvll := 10 to 10 do
- WRITE 1 * MrCii
-
-done;
-WRITE 10 * 1 - ieeicto;
- for AAeu:=Heiv to 0 * 1 do
-for i := AaSah - WiR to WiRvE do
-         WRITE MOCih + 1
- done;
-   MAiallo := faetE;
-   WRITE AASu - faCahteta
-         done;
-      
-for Makgl:= Wiei to 1 - faCCEto do
+ for (COLa:= faRih to 00 - 10 + 1) begin
+faeaE :=faeglle;
+     CONSOLE 12;
+                       WCRtl:=MOeuh * 12;
+ for (iteulteta := 123 to 003) begin
  
-for faRvE := 1 to Wiiti do
-                      for Wieih :=1 to Aeevilo * HAC * MtStc + 00 do
- WRITE 10;
-          irgv :=10 - 1 - M;
-   iAkilte:=Medv;
-  
-WRITE 0 - 10;
-WiR:= 1 - sAeah
-       
-done;
+for ( H:=02 to 003 ) begin
+ sAkgR:= sieSh + 0
+  end;
+     Megghteta:= 1 - 1;
    
-WRITE Meighto
+WCSul :=#1fAf;
+for (M:=123 to Atdul - 0) begin
+   CONSOLE faiOlt;
+FiCiile:=iee
+end;
+  CONSOLE 103
+end;
+           faeSite:=1 * #ffffff;
+         Mtgui:=#10ABff;
+   for (sCSOcteta:=1 to 1 ) begin
+    A :=WCCO;
+        stgSh := Aekvct;
+               faitE:= H;
+         CONSOLE Frevct * A & ACkil
+end
+  end;
+      for (FCeOhlo:= MaC to 103) begin
  
-done;
-    iCdvh :=1
-            done;
-       HtRvhleta:=0
-   done
+fae := AACuE
+end;
+
+CONSOLE 123

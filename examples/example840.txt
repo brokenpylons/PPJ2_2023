@@ -1,47 +1,39 @@
- ArS:= 0;
- MtCth:=iCRiileta;
-steChto := Aaeihto;
- for MaSvit:= 0 to 10 do
-WRITE MtCaEt * 10;
- M:= Aaetl + 0
-
-done;
-for iaiSlt :=0 * 00 * 00 to 1 do
-        MOkuhl:=A - 10 * 00 + Wietlto * 10;
-                     for MAi := M to WieCE * Widvhte do
- ArR :=1 * 0;
-   Ark:=0 - Wigah
-        done;
-WRITE AORC;
-     fad:= 0;
- for ieCtc:= Aaigh + MeeuE to FeRC do
-for Haegi := Mrdg - iASgc * 1 to Wievileta * 1 do
-  FOiih:=H;
-for MrdS :=Haiactota + 1 to 0 * 10 + MtiScle * A do
-HAeuc:= 1;
-            Widacl := 10;
-       for Wikvlt :=FteCh to 1 do
-   
-FtCghte:=MrRaEl - 10
-done
- done;
-HrCuht:= 10;
-  for HrdgE :=1 to 1 * faeaileta do
-Heeaile := HAka;
-srCih:= 1;
-AaRaEte:= Haeictota - 0;
-for sCeS := 1 to AOe do
-  AtSu := 1 - AOeght
-            done;
-WRITE 10;
-     Mrdih:= 1
-   
-done
-   
-done;
-     sagCh:= fadal
-      done
-  
-done;
- MAdCh := H
-         
+for ( COLilte := 103 to #1ffBff) begin
+             for (MeRaht:= 0 * s & ACeuc to 1) begin
+   for (MCd:= FrRalt to Mreihte + fakah ) begin
+  sidv:= 0;
+CONSOLE 1;
+   for (Hae:=1 to stRCl + MtCv * AiSvl | 103) begin
+      
+CONSOLE MtiS - 1
+ end;
+            for ( ACeglteta :=MtgS to saggc - 123 ) begin
+ COLvit:= WeCv
+  end
+ 
+end
+           end;
+            COLuc :=1 * 123;
+  COLilt:=MeR | Atgtlto;
+for (sriC:=123 to 1 ) begin
+  for (A := itROh to 1 * 123) begin
+ FievR:=103 * 123;
+     CONSOLE 103;
+                   sreucteta := 1 + AOe;
+ for ( faduEt := ACeih - srgCct to 1 * itS ) begin
+    
+for ( fakCl:=Wii | MaRgh - 02 to ACdah + 1) begin
+ COLa:= 103
+                 end;
+MAdCE :=1
+       end;
+     MreS := Maegcte;
+ HCiOil :=1 - 103;
+COLghl := 1;
+   CONSOLE HCktR;
+   COLShlo:=i & 10;
+    CONSOLE 0;
+    faeSE:= 123
+end
+ end
+       end

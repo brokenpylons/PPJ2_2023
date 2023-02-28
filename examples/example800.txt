@@ -1,48 +1,38 @@
- A:=00 * HACi + WiSSE;
-for MCdChle:=H to 0 do
- 
-for Fagv :=FCeC to Htdvlto do
- for FARtc := ste * srkgitota + iCd to 0 * 0 + sCiSc do
-     for FtSu :=Mret * 1 to 0 do
-   for Arkih :=0 - ACSa - iteght to 0 do
-WRITE 1 - 0;
-  AAeC := Mrda;
+ CONSOLE Fteih + 1;
+   for ( ArdS:= COLi * AedS to COLi ) begin
+for (MCRSi := #ffff to Wegvlt) begin
+    CONSOLE ACk * #10fB;
+    for ( COLuh:= 10 + 1 to 1 - faC) begin
+           CONSOLE sOdgR;
+   COLthtota :=123;
+  COLgh:=COLgE | 1 * 123;
+         A := MARSit;
+iACOEl:= COLt + Hrdg * COLOEte * 1
+    end;
+  
+FiCg:=023;
+     CONSOLE Atdt;
+               AteCE:= 12;
+   CONSOLE 103 * 12;
+  seiClt:=103 | F;
+              
+for ( COLChte:= COLOh to 1 + MARSl + MOeth | COLScteta) begin
+  CONSOLE COLu + COLvc
+  end;
 
-for i:= srRvh to 1 * 10 * HAiih * MOeSc - 1 * fagSi do
-Widii:= 00;
-      FaRS:=faitE * FARSh;
-   WRITE 10
-  done
- done
-          done
-               done;
-WRITE 0;
-    for faSS :=A to WikS do
- for HOeCh:= M to 1 do
-HreSh :=Widuhtota * AORvct
+MregRt :=123 | MOiO
+  end;
+ for (HeiiRlo := 1 & 0 to ieCChto * sakuito | 123 * 12 * Mrgtltota ) begin
+        MiduE :=1
+    end;
  
-done;
+iiiiR := Mak * #f0Af & 10 & 1;
+   sOda :=1;
+      
+COLgc := ACgtR;
        
-MAeS := 1
-
-done;
-  Aee:= sOkSct;
-   for MOeCl :=M to faSiEte do
-    iekaEt :=MCCCE;
-    
-for Mtdvh :=HOSihto to sORCi do
-     ArC:=1;
-      s :=Hagvh + 1;
-       Mtea := 00
-done;
-    
-WRITE Fekait * iCkvcleta;
-        for M := Aag to 1 do
-             WRITE Wigthto
-   done
-  done;
-sek:=Htki
- 
-done
-  done
-    
+CONSOLE WeSicte + Mee;
+                
+HCetitota := COLg;
+ CONSOLE WtSSh * iAdv
+ end

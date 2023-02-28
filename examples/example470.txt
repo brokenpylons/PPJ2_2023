@@ -1,29 +1,30 @@
-HrgCEleta:= 00;
-  for irSSi:=1 to itka do
+ CONSOLE 1;
 
-for MCivl:=10 to faSth do
-             for i := sOetcleta to A do
-for Heggl:=WiCvl to 1 + ArgCclo do
- faCC:= 00 * 00
-    
-done;
-    sOS:= 1 + faSgh;
-     FAitE :=faiSi;
-  MrkgEte:=MORvht;
-            WRITE fag;
-   for fakacl:=faR to 1 do
+for (Meiai:=Aegtl - 1 to 1 ) begin
+                    CONSOLE iCkahto - sAeCR
+    end;
+for ( MCialle := COLic to faSOh) begin
+    MidgR :=123 | 103;
+sASi:=12;
+Mreai:= 1;
+        CONSOLE 123;
+
+AteuRl :=faeC
+        
+end;
+  
+for ( AOgi:= 0 to 003 ) begin
+    CONSOLE MCeahlo;
+iaCgito:=1;
+     
+for ( Wae:= AiRuhle to 103) begin
+CONSOLE 1;
+     Medah:=COLac * ieROc - 103 * faiOi;
+     sCeOite:=123;
+
+AaStEto :=AadOh
+      end;
    
-iAdaE :=Wieght
-  done;
-iteui:=FaCilt
-    done;
- MtSahtota :=1;
-         s := 1 * 0
-    done;
- WRITE 00 + 10;
-            sCig:=1;
-       WRITE 0 + stkCE
-    done;
-faiS := 1;
-faguclota := M
- 
+sCdtc := 003 * iCCa
+end
+         

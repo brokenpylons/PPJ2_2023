@@ -1,37 +1,38 @@
-for WiiSl:= 1 to HCCah do
-  for AtR:= 10 + 1 to 1 do
-  
-for Haktl :=ACkah + M to 1 do
- 
-WRITE AOCv - FAeu;
-     WiCuhleta:=00 - 1;
+ for (iee := 123 to 1 ) begin
+ HrCuEleta:= 123;
+sCkS:=0;
+ CONSOLE 103
+       end;
    
-AOggcto := 1 - 00
-     done;
-         for Wietl := 1 to 0 do
-  for HOCv := 0 to MeiCEtota do
-F :=MOevhte - 1 * 1
-     done;
+faiORl:=0;
     
-Atithleta:=0 * 1;
-          
-faiaclo:= Fadv
- done;
-WRITE 1;
-  AtRic :=MAeiito
-       done;
-
-for stg:= 1 to 00 do
-     for F:= HtiCE to 1 do
-   WRITE 1 * 10 + irev;
-         WRITE ACgihl;
-          
-WRITE Widahl;
-AaggE:= srg;
-              WRITE 10
-           done;
-    WRITE sCgS
-            done
-        
-done
+CONSOLE sagC;
+HaRuEtota :=W & #f0fBff * WOCu;
+AAiaRt := 103;
+    MOCul:=faRth;
+              
+for ( WCkSE := 1 to Ateal - A) begin
+ for (HtSOh := 1 | 02 to Wtkt ) begin
+    
+WidO:= 0;
+   Hegihteta := HtiCcl;
+  CONSOLE #f0ABff
+      end;
+        CONSOLE 1 & 103;
+WAgg := 12;
+ for (F :=12 to 123 ) begin
+      
+for (irdOh :=#10fBff to 12 ) begin
+           for (iaevc:=1 to COLtl) begin
+ MOkS :=AiRal
+end;
+F :=sOgthto
+end
   
+end;
+stCuEteta:= faCtct;
+ 
+CONSOLE 1
+   
+end
+

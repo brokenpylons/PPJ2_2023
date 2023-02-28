@@ -1,27 +1,24 @@
-A :=10;
-for WiCCh:=1 to FARaE * 10 do
-         WRITE 0;
- for MaSC:=1 to iriSh do
-  
-for WidaE:= 1 - WiRuile to Mtkg do
-     for ACSti := ACeghlota + 1 to 10 do
- Wie:= 0 - iCe;
-AtdC:=1;
- FOSg:= HadSc;
- WRITE ArkC * 0;
-     Feei:=AaeCh
-      done
-      done;
-   HrgClte := Hagi;
-  WRITE MCiu;
+ CONSOLE 123;
+CONSOLE sOeah;
+    
+CONSOLE 1 | 1;
+AtkSEto:=irkgl;
 
-MegCclota :=FtCii + iCeait
- done;
-for Fagii:=MrktEt to 00 do
-for MAggh := HtR to WiR - 1 do
-faR:=00
-done
-  done;
-   ieiCE:=AORC
- done
-  
+for ( WACa:=10 to 12 & 123) begin
+for (ACRt :=003 * 1 to #ffAf * fadCR + COLul) begin
+    MACSEt:=iaevl - iCR;
+ for ( stdg :=12 * #1fAfff to 0 - #10AB ) begin
+     CONSOLE 103;
+ for ( M:= faSOhle to MeC * siRgE ) begin
+             
+Mtkvll :=Waigh
+   end
+end;
+ HOkuhleta :=0 | #f0Af;
+iretl :=123;
+    MrR :=sievh
+ end
+     
+end;
+     CONSOLE Wrevite;
+  CONSOLE 1

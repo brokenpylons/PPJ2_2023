@@ -1,18 +1,15 @@
- for FriC := FaSCEto + 1 + 1 to 0 do
-    for iOktllo:= 0 - 1 * fad to iOg do
- ArCuit:= FeCahlota;
-     FeSvi :=Wievi;
-Makvc := 1;
-     Wievil :=00;
- 
-for AOgi:= MrdCEt to M do
- WRITE Makvh;
-   s:=00
- 
-done
-       
-done;
-               faCS :=ArRtE;
-    HCCi := Wiggh
-done
- 
+CONSOLE 1;
+  for (Atev :=FrCS to HCCS) begin
+          FOdtlto := iekvh;
+ MAgS := FORic;
+WACil:= 023;
+CONSOLE AOegE;
+  AtiiEte := #f0fBff * 1 * 12;
+     Mei:= 103;
+    for ( MeRSR :=Megul to srCuE) begin
+ Wrggc:= FaCai
+    end
+ end;
+CONSOLE 1;
+   
+FtRahle:=FeSgRte | MiCa

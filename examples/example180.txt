@@ -1,12 +1,13 @@
- for F:= AAdai to AriSct do
- 
-MORahtota := 1;
-               WRITE AeSCE * seeui;
-         AAeicleta:=ArgSh + 10;
-       
-MeRvh:=10;
-     
-fadahteta:= Atd
- done;
-MriCE:= faSaEte
-    
+Arev := 123;
+ HASghtota := #f0fB;
+           
+CONSOLE 02;
+    CONSOLE Wigu;
+ for ( srRgc :=02 to Wtigi) begin
+  
+M :=#f0ff
+    end;
+                 
+M:=1 * 1;
+    CONSOLE HiiiE
+   

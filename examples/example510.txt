@@ -1,34 +1,28 @@
-for ireShto :=MAgii to 1 do
-   iOeS :=Hrgv;
-for A := MteCcte to A do
-   ieeiclo := 0 * 10;
-for FtgSE :=1 to 0 * 1 do
-    Wigghleta := Aeii
-done
-    
-done;
- F:= 1 * 00;
+ Aeggito:= AOkii;
 
-for stCi := 10 to A do
-      FAevl:=ieiil + 10
-   done;
-  WRITE iaRvil * WieCc * Ateai * 0;
-    AOi:= 1;
+for (faeSh := HtiSit to 1) begin
+       CONSOLE 1;
+   MAitit :=10 * 0;
+    for ( A := 123 to MreOE ) begin
+  for ( AtSCR := 00 + COLS to 1 ) begin
+   CONSOLE ArCCl
+            end;
+  AOgOc := COLSE;
+    CONSOLE COLu;
+    MtSCc :=00
+    end;
     
-for HCeahl:=H to WiSgh * WiCClteta + 00 do
- seggEtota:=10;
-   for s := F + 00 to 0 - 1 + AOC do
-   
-s :=10;
-     WieC := 0
-        
-done;
-MCevE :=10
-            done
-done;
+MidgRte:= AAdC;
+ i :=WikS;
+                 for (HreOE:=02 to 1 * Higth) begin
+ MiRiito:= iOkSi;
+  faeCE := faeg;
  
-HCeac := 10;
+for ( M := faiiEteta - 0 to seg + iAdCito ) begin
+MiSOlt:= FtRtEleta * 12 & MCgSi * 1
+end
+end
+       end;
+  
+CONSOLE AASCi
          
-WRITE FCgicte;
-     WRITE FaSvi
-       

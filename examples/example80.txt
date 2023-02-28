@@ -1,4 +1,5 @@
- MtkClt:= fae;
-     irk:=10 + 1;
-AORii:=1;
- ieit:= sOeaitota - fakghto * HeRC - 0 - F
+M:=103 * A;
+   for ( seCui:= #10ff to Mae) begin
+      iiet := AikC & 0 * 1
+ end
+ 

@@ -1,9 +1,7 @@
- for MCRSh := 0 * 10 + Hekv to iCRgh do
-F :=1;
-   
-ACRi := 1
-     done;
-
-WRITE MCigh;
- WRITE Aaethtota + ACkvi
-
+ HOCvi:= 0 * 12 & 0 | WreOi;
+for ( HedgRt := 103 to 0) begin
+  FteShleta:= 02 + 1
+end;
+    
+CONSOLE WrRvR | 103 - 023
+ 

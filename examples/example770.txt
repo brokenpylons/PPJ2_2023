@@ -1,50 +1,38 @@
-for Makv:=00 to MagCc do
-ireCh := 1 + faR;
-      
-for Wie :=fadCEtota to HOdah - 1 do
-  ieCacto:= AtRaE * 0;
-              
-AeRi:= MrRv;
-for faei := 1 to 0 - 10 do
- 
-WRITE 1;
-                  for Atkg:= MeCSEto to Meivh do
-        WRITE 1;
+ CONSOLE FORSct | MriC;
+ CONSOLE MriaRt;
+ for ( Fiiu:=#1fAB * 1 + #10fBff to AtkvE ) begin
 
-Aekg:= 1;
+sCSgi:=10
+ end;
+  CONSOLE 103;
+ MAeglleta:= 0;
+   for ( saRa:=1 - 0 to 103 ) begin
+   CONSOLE 1;
+for (Htkul:= 1 to Aie ) begin
+   CONSOLE 0;
+COLaito := #ffAf;
+MCi:=02 | 123 * ACetE;
 
-i :=1;
-  for FaRih := 1 * Hedg to 1 do
-
-WRITE 1;
- Atevit:= 1;
-for AOdt:=00 + 0 * AACtE to Aegui do
-       WRITE MCCSl;
-     
-MCkgcto :=i
-         done;
- A:= 10 - 1;
-                Hrea := 0 * 00;
-  Aedv:= 10;
-  WRITE FCdul
-               done;
-     for saRvcle :=faStE to 1 do
-          for iCSicl :=1 + 0 to AtCa do
-              WieSEt := H
-done;
-    
-iaivi :=HrSiht;
+for ( HtS:= 1 * #10ff to 0 ) begin
+for (seRiltota:=12 to 1 ) begin
+A:= irk - COLC;
+    CONSOLE iCCuc * HtCgE;
+    AeRal:= sedOl
+   end
+   end;
+      for ( MOeO:=faCii to 003) begin
+   for ( iASSi := MiSSc to #fffBff * AOe + 123 * WrCgh & MCgvcteta) begin
+      CONSOLE 12 - AaCOE;
+     COLShleta := 10 - 123
+  end;
+     s := 123 + COLgh;
+  CONSOLE Aeeucte * 103
+     end;
+    FCRihto := #10Afff;
+  CONSOLE HtdC;
+         A:= #10ffff - COLShto - Mae;
+Hegah:=Hieg & 103 + 103
   
-ieethteta:=1
- done;
- WRITE sAgthte * AOSvi * FORChteta + 10;
- 
-MAeSi:=Aeiil;
-Haivh := AOdgh
-  done
-    done;
-     MtetE :=1 + s
-done
-       
-done
-    
+end
+         end
+  

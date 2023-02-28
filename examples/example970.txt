@@ -1,60 +1,58 @@
- for fae := 1 to 1 - fakulle * 0 do
- WRITE MOd;
-          for Mret:= iegg to MCSCctota do
-  for A :=0 to 0 do
-sACaEl:= 1 - 0;
- A:= AOeuh;
-ArSuhl:= 0;
+COL:=MtRSl;
+         
+CONSOLE #f0fBff;
  
-WRITE 1
-         done;
-  MOkai:= 1;
-Wiig:= Aaeth;
-for fag:= 0 + 00 * 0 to H do
-   sOevcleta :=A;
+sadS:= seSCRteta * 0;
+ iAevE := 1;
+   CONSOLE 1 * 1;
+   CONSOLE 1 & #fffBff;
+         HrCgh := 023;
+      for (WrCOEt:= faggRl + 103 to Atiaite + Aeeiht) begin
+  segtE:=10;
+          
+iOe :=1;
+                  
+for (AigaEt := faiOht * AOCicte to 0) begin
+     irkvhtota := Mieictota;
+   COLSlteta := Maii;
+   WtgCR:= 103;
+      for (MCStcleta:= 103 to 02 ) begin
+  for ( AreOR := 1 & faiiR to 12 + MiStR) begin
+ for (Mek:=AARuhle to sAd) begin
+            FaeOE:=FOeCl;
+ 
+for ( faROi := FrCthte to 103 ) begin
+         Aaeah :=FOC
+  
+end;
+ iCeuh := 1;
+ 
+CONSOLE 1
+
+end
+ end;
+
+COLvh :=023
+ end;
+  for (irga:= MrdS to faCSclota) begin
+ 
+CONSOLE HACgEto;
+          MrdSi := 1 + Hrd;
+                 
+FrSuit:=ArCOcteta & 103
+ end
+        end
+     
+end;
+       for ( Mekgl:=023 to ACeC ) begin
+ for ( HCkaE:=AaSORtota to FrRg | Aaigcl | 12 * 12) begin
+ 
+H :=AOialt - FeCahtota
+    end;
       
-for ACCvhlota:= 0 - 1 to MadC do
-       WRITE M + HaSic;
-     for MaRCh := 00 to 00 * 0 do
-  WiSti:= 10 - 1;
-           fakvhtota:=10 + M;
-   
-Maeiht :=Mreih;
- sAeC:= MCdSl - HORt;
-WRITE WiCgh;
-for faeii := WiSu to 00 do
+iAevl :=00
     
-AtSac :=AAigEtota;
-                    MadC := 1 - faivh + 1;
-  
-irC :=itiiEt
-done;
-   WRITE 1;
- WRITE sek - 10;
-     AAgvhteta :=FedaE - Haegcto
-     done
-done;
- faei:= 0;
-     A:=ArCuite
-     done;
-      WRITE i;
-      s:= 1;
+end;
+   
+faiglt:= Aakah
  
-WRITE FrS * FtSu;
-
-fai:=1;
- WiCgito:=0
-   done;
-  i :=10 * Wie * 10;
-             for FtRih:= AtkCh to sORg do
-    Aegi := M - 1;
-
-WRITE 1;
-       for WikShto :=Arkuht to 0 do
-WRITE WiSvEte
-   done;
-             faduht := 0 * 1
-  done
-    done;
-fadth:=10 * 1 + 00
-  

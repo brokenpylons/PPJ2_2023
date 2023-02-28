@@ -1,61 +1,51 @@
-for MaCi :=Wikii to 0 do
-    
-Mreg:=1;
-     for HCeSile:= MOi * 10 to 10 do
-    for Aai :=1 to faRt do
+ Arev := MaRihl + seiv | Wtdalt;
  
-AtRg := 10;
-    
-for FtSvht:=HeC * 0 to 00 do
-   for AakC :=M to MARCileta do
-      WiSvEle := 1;
-
-for AtSCl:= 10 to 0 - FOe do
-  for sASgE:= MeRShlota to 00 do
-     WRITE 1
-                   done;
-MAet := 1;
-   
-WRITE AOCShto - 1;
- MACi :=1 * 10 - 0 - 1 * 1;
- 
-WRITE iegt;
- WiRuht := FtkiE;
-     for HOi:= AAei * 0 + 1 - 1 to 0 do
-                  for sARvhle:=10 to WiR do
- 
-for MOgv:= 1 - 00 to 1 do
-WRITE faS;
-     srdii := 1;
-AOCal := 1
-       done
- done
-done
-  done
+COLC:=faig;
+       for (COLg:= HikgRleta - #f0Af + 1 to #1ffB + 1 | MARaR ) begin
+  saeCR:=0 - 1;
+Fti:=COLght;
+   for (COLahl:=Frg to 1 - FCiCR ) begin
+  CONSOLE Wtkt - H;
+        CONSOLE 10;
   
-done;
+CONSOLE 10
+ end;
+for (AtCil := AiCtcte to s + HAdu) begin
+   for ( FiSCi := fakglto to MteCctota | 1 ) begin
+                WiR:=1;
+        for ( A:=123 | fagOE to Aai) begin
+   CONSOLE iOdClteta;
  
-WRITE WieCh * 1;
-  for Haiahle := Atevc * AASaito to 0 do
-WRITE 10
- done;
-  MtiCi :=10;
-       
-faRv:=faeuh * 1
-    done;
- for iaRC:= 1 to 1 * 1 do
-        for iAeahte := 1 to iOeChto do
-      
-WRITE WiCC * M
-done;
- WidiE:=00 * 10;
-   WiSv :=00
- done;
-  faRgitota := 0
-              done;
-MCkvlt :=1 - Wik * 00;
-         for HtCS:= MCitc to MAkC do
- fadvE :=0
-done
- done
-done
+CONSOLE faigRt * W;
+ for (faCt := #f0ff to AAdic + fakti - fadaite - HaSSEt) begin
+        
+Wai:= 1 - COL;
+  Wte:=AiSOEl
+       end
+                
+end
+end
+  end;
+    for ( MOdah :=AidS to s) begin
+   CONSOLE 1 + i * 0;
+    for ( Fie := 1 to 1 + MiiiE ) begin
+ faRiEt :=WrdShte;
+  CONSOLE 0 * siCOh
+end
+end
+ end;
+        
+AeegE:=MrgtE - 12;
+         
+for (HaCCE:=AaSah to fakg ) begin
+
+for ( WCeCRl:=FOiuR to 003) begin
+  Wadilt :=12
+  end;
+   WiCCE:=faRO
+   
+end;
+    CONSOLE sARg * 1;
+             MOgg:=sCRuR;
+COLCl := 1
+        

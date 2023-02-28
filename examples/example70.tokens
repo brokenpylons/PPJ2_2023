@@ -1,1 +1,1 @@
-variable("WigC") assign(":=") variable("Wiegltota") semi(";") variable("Wigac") assign(":=") variable("MaRSito") minus("-") float("10") semi(";") variable("AARCi") assign(":=") variable("HeiaEleta") 
+for("for") lparen("(") variable("iii") assign(":=") int("12") to("to") variable("Mekal") bwand("&") int("02") rparen(")") begin("begin") console("CONSOLE") variable("MrCS") end("end") semi(";") variable("AORgE") assign(":=") hex("#f0Af") 

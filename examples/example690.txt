@@ -1,41 +1,41 @@
- WRITE 1;
- WigSh:= 00;
-for AASihte:=1 to A - seku do
-                 Hrit := M * HagvEteta - faSth
-  done;
-   AOeC:=10;
- for iOiiiteta :=Magvht to 1 do
-faeul:=1
-    done;
-    WRITE itda;
-      for H:= stetc + saSSc to 10 do
-for fadvEto:= ieggh to iCkgEte do
- faRC :=fadi;
-FteC:= s
-     done;
-for faRuE:= 1 to AeiCE * ieevh do
- WRITE Maivi;
- for ACev:= 1 to MASvcto * ArRicte do
-        
-WRITE ACdtc;
- Mriicteta := WiCCito;
-for faSui:= Hrk to Wiegi do
- for AaS:= fagailota to AAegh do
-  i:=0 - M;
-    FeeShle:= 1;
-for steScto :=MACg to AOiv do
-   Aeig :=srdaht
-done;
-  WRITE faCg;
-  Wigt:=0 - 1
-    done;
-faRg:=ieduc;
-   
-AASC:= MACg
- done
+ for (HaCtl :=12 to sCdaEtota ) begin
       
-done
-    done;
-HACS := seSSh
-         done
-  
+AeguR:= 123;
+    
+for (fakiR:=Atea to stRtR ) begin
+AaRvhlo := HrCOEto;
+                   siCuh :=M;
+  saRv := 1;
+     
+for ( AedvElota := Wiigc to A ) begin
+ 
+for (HtduE:=103 + 1 to 0 + 12) begin
+Miii:= AtSv;
+Arithl:= AaS + 1;
+    
+CONSOLE iCeuhle
+       end;
+         for (ArRtlle := HAdCR to COLgh - sARiRt | 02 ) begin
+  stCtit :=irCt
+          
+end;
+    for ( faCtE :=AtkCh * faSg - Fai to 12 * sCgi) begin
+ Aaiilto:= stRuEte * 02 * AtevEt;
+   HOeuEteta:=#1fAf
+
+end;
+  CONSOLE FeeiE;
+ACeu :=sakCc;
+      fakCc:= 10 * MigOh;
+ 
+Higgh:= saStR;
+ Fed:=AtRgc | Weeg
+
+end;
+    
+HOkuEte:= 123 * 1 & ArRihl - A;
+   CONSOLE FCROE | HriS * 1
+    end
+ 
+end
+ 

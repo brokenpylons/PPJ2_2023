@@ -1,13 +1,11 @@
-for i :=0 to 1 do
-WiRuEleta:= 1 * AOetil;
-     
-Wik:=1;
-   for FaS := AaeSl to 1 + MreC do
-  for HAdCEteta := MCRii to 00 do
-  MtSSi :=FOgth
-      done
-      done
- done;
-   
-FCgvl:=1 * 1
-    
+ CONSOLE MAiOR;
+ 
+CONSOLE irgtRto;
+MOgCR:= 12 & COLac;
+ for ( COLa:= Maeihlo to 1 * #ffffff ) begin
+for (fakgito :=10 to COLic) begin
+ A :=1
+    end
+  end;
+                MAivi := #ffff | 123
+      

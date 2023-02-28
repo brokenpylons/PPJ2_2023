@@ -1,34 +1,32 @@
- A:=iAit;
-  WRITE 10 * i + 1;
- for AeSahlota:= HaRthte to sOetE + A - 00 do
-  Ati :=AeeC * iaSiiteta
- done;
-  for M:= faeuile to Aek do
- for Argth :=iagvct to 1 do
-     faiiE := 00
- done;
-for MOevit := 0 to 1 do
-iCkSl :=0;
- 
-MeC := Megac
-done;
-   MaRthtota:= Wiitht;
-   AOetEto:= 00 + Mriti * A;
-
-MACSileta :=AOR;
-                  for MAgilt:=iOd to 1 do
+ AaCi :=103;
+  for ( AASvh:=Frgvh to 1) begin
+      
+iAeuh:= 103;
+ CONSOLE 1 | M;
    
-FeRCl:= AAi
-       done;
-     Meiicl:= Mteiite;
-        MaSih :=H;
-          MCSil :=0;
-     FtRgct:= 1
-      done;
-  for Mtgtl:= 00 to 1 do
-  for Wiegi := 1 to 1 do
-    MrSSlt := A;
-    Wiegh:=iekS
-      done
-    done
+HAeuileta :=1 + faeg;
+         COLi:=#10ABff;
+        FAk:=Wigvi;
+fagih:= 123;
+      for (faCiRle :=12 to MrSCl) begin
+              saiC:= 12 * ieSgcte;
+for ( ACiuRteta:=#f0Afff to faeSEtota ) begin
+       CONSOLE HOgCR + 12
+  end;
+       iakSc := 0;
+  
+faeOE :=M
+   end;
+    HikgE:=faegE
+end;
+ for (ACeS:= faev to 12 | 1) begin
+     CONSOLE A | 003 | HAeSh;
         
+iadahte:=faea - HeRuh * HCCt;
+ 
+CONSOLE 1;
+CONSOLE faevh * faegil;
+   WCeii:= 1 + ArR * #10Afff
+       end;
+              FOdu:= 0
+  

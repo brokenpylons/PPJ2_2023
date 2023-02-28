@@ -1,33 +1,31 @@
-for HAS :=A * 1 + steihte to A do
-   i := F * 1
-       done;
-FCea:=1 * 00;
-    AOCuile :=AeeSlleta;
-      
-for Wiiuh := 0 to 10 do
-for ACSt:=FOegl to 1 + 0 do
+ for (AtetR:= HaeOi to #1fAf - Mieicto) begin
+     Hikghte :=1
+end;
+for (AreaEteta :=#1ffB - 02 * iAdiitota to 123 - 103 ) begin
+       for ( irCScteta:= #1fAfff to 1) begin
+    CONSOLE 0;
 
-for fakul := 00 * ArCvh to 10 do
-  iCRuct:=10
-     done;
- sCdih:=1;
-    for fagvl :=FtRCct - Wiet to FrCtc do
-           WiCt:= iOk
+M :=COLalleta - FtiOEte;
+for ( WiCg:= Fiiu to 103 * 1) begin
+     
+CONSOLE segSh;
+for (MeiScte:=#1fffff & WagOl to 1 ) begin
+            for (sedg := AieOi + 123 - 12 + #f0fBff to 10) begin
+         
+FidOc :=Aeiic
+end;
+  
+iCeC:=103
    
-done;
-  for sAC :=10 + seRa to 00 do
-    Wig:= WieaEtota;
-    AAegl :=MOkt;
-for HrRS := 1 to MaRvhte * Wiii do
-      Hedacl:=faSShtota - 1
-     done
+end
+      
+end
+       end
+     end;
+   
+CONSOLE 12 | 10 + COLSclota;
+   for (faivc:=1 to 02 - 1 * 103 + W ) begin
+   COLgh:=COLth
  
-done;
-                WRITE 10
-  done
-done;
-
-ArkSh :=1 + HCiS;
-          stdvh:= MagtE;
-   Mrdth := 10
-            
+end
+  

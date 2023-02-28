@@ -1,65 +1,47 @@
-iAgglteta := stSg;
-    
-WiS:= A - 10;
-  for Mak :=1 to 1 do
-            for AtR :=0 to fakS * MAivh * 1 - 10 do
-  Mrkuct :=1 - M * 10 * 0
+COL :=12 + Hagg;
+ CONSOLE 103;
+       for ( HACOhteta:= 02 to 0 ) begin
+COLSc:= HOith
+         end;
+for (Aeguhtota := COLCil to 1) begin
+       for ( fagait:= 1 + 123 to 1) begin
+    Mikul:=#ffff;
+ ieSgRt:=1 + 1
+ end
+ end;
 
-done;
- for WiSC:=sAg + AekSh to 10 - seeaiteta - faRth do
-saggc:= MtRS - 1;
-    
-MAguEl := 10;
-       WRITE 0 + 0;
- s:= H - 10;
-MOgS:= 1
- done
-done;
-  MteClte := 1;
- for AOSah:= 0 to A do
+for ( iteCR:=103 - AOevc to faSCc ) begin
+       for ( COLg:=COLtc + AtRgi to AAkahleta * 1 - 123 ) begin
+for (F:= #1ffB * #f0AB to 103) begin
+CONSOLE 1
+ end;
+       CONSOLE sAevEteta * AOeS;
+ iAeai:= AeCShlota + 123;
+                    WiCCl :=12;
+                    
+for (ACCgc:=COLO - 1 to 103 - 12) begin
+       
+for ( Fik:=#fffBff * FCgS & AaeaR + 003 + 0 * COLO * WCkOh to WiStc ) begin
+  Wadghlo:=HeeOiteta;
+    for ( iCCiil :=#1fff to 1 ) begin
+         HOeg:= AAgSE;
+       HaRv:=103;
+ Fidtc:=MAS
+end;
+   CONSOLE HCRCl
+  end;
+seCti:= AAiv & 103
+       end;
+      for ( faRCcto :=0 to COLtEt ) begin
+MAkChtota:=sOeOhto;
+    MaggE := 103 * 1 * 1 - #ffAf
+ end;
+   CONSOLE 103;
+
+A := 0
+end;
  
-s:=1;
- MtCaito := MaCth;
-itkgE:= ACgCc;
-   
-for MrRtc := faeghte to 10 do
-       Aeia :=10;
-    AeCS :=10;
-   
-HegtEl:=iOggE - i
-    done;
-MaCCll :=10;
-   for Atigct:=ACe - ArCtcto + FCeSE to stdgE do
-for sadSE:=MAgthle to 1 + Wie * i do
-for WiCgh := H to sCRSh do
-           
-WRITE 10;
-ACkSito := 00
-     done;
-
-for Mae:= 1 to 0 * 00 do
-
-fae:= 1
-
-done;
-  for s:= 1 * F * 0 + 10 to 1 * 0 + 10 - Haeglleta do
-  
-sOdv:=1;
- for faiCh :=iek to AASacteta do
-    i := stdi;
-WRITE FaRSit
-
-done;
-  faCSEto:= 10
-      done
-   done;
- M := 00
- done
-done;
-   for saRiEleta:=00 to HAe do
-    Wietit:= MaRt;
-   Mreg :=faev;
-    MaeaElota :=Wigih * 1;
-          WRITE 10
-done
-  
+MAdvhteta :=MeiS * COLvh
+    end;
+CONSOLE faRCh;
+ CONSOLE AaRi - 123 - s

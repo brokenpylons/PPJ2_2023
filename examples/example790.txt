@@ -1,46 +1,38 @@
-HtCvc :=0 - FOStileta;
+for (COLtc:=103 * 1 * MAgOi to 12 & M * MCeul ) begin
 
-for AOdviteta:= 1 to Wiea do
- WRITE 00;
-   iOdght := Fagvhto
- done;
-for faeaht:=FrSil - WieSi to M do
-           MreC:=MOia + 00;
-WRITE FrS + 10
-done;
-  Arivlt :=0;
-                   for Atkuct:=1 to Mtduh do
- Wikvlteta := 1 * 0;
-               for Wii:=1 - 10 to MCea do
-for sCCS := 1 to 1 + 00 * Aed + 0 do
-   for Aaeulle:=1 to 1 + 10 do
-  for Mrev:=HtRght to 1 do
- for WiC:= 1 to 10 do
- Atduht := WiiSlt;
-       M:= 1
-done
-      
-done;
-  WRITE faethte * 1
-       done;
-Htigh := F - H;
- MAC:= 1 - MaigE
-              
-done;
- MaeC:=10 * 10;
-  
-sCku :=0
-           done;
- for Hrkgile := ieda to 0 do
- Wigi:=FASalte * AACu;
-      for MOeSc :=srCahtota * ieCvi to A do
- AreSE:=Aedth;
-     
-WRITE 10 - Wikii;
-           
-Mek:= 1 * MAR;
-  MrSucle:=10
-     done
-done
-  done
+CONSOLE AAdCRlota * i & 003;
+for ( FieOc:= #ffffff - MOkvEt - FreOi + sAkihlota * #ffffff - 0 to 10 * WOeORl | 1) begin
+   WOCv := sadCEte;
+
+CONSOLE #10AB;
+   
+WiitEl:= 1;
+for (Wadal :=W to 1) begin
+  for ( MrSvh:= 0 to 12) begin
+        HeSSE := #f0Af * #10ffff
+   end;
+   MAdCEl:=Waeg & Hrivi + #1fAB
+end
+   end;
+for ( WrSO := 12 to FCkuR ) begin
+ CONSOLE 0 | #ffAB;
+            ACROh := W
+end;
+faduRt:=10;
+    HOCShlota:=10 & 1 * 1 * FAk;
+ACRSl:=1
+   end;
  
+faSa:=AORgi;
+MOdCh := 103;
+  Mrka:=faigct;
+ 
+fagSEtota:=0;
+     AARil:=0;
+             for ( AACth:= HiiiE * ArRucteta * 1 | 0 - Mai * 0 * 123 * 0 to 10 & 003) begin
+     W:= AOegh * 103 * 12
+ end;
+    
+for ( FeRuh:= HikSht * 1 - 10 to 12 + 1 * 1 & 0 + 0) begin
+  AadiElo :=00
+end

@@ -1,34 +1,31 @@
- for FAiah :=1 * 10 - Mee to 00 * 1 do
-    s := seiCEl;
-  
-AtCai := 0;
-      Hekv :=AAeuhlo
-         done;
-FAS:= Fegillo - WiRSc;
-     
-for AACgi := FreCi to 0 do
-         sAgiilo := Aekvht + FAeti
-  done;
-  for ACe :=10 to Wiegh do
-  
-WRITE ACSi
+ for ( HOkC := 123 to iaeO) begin
+for ( COL := i to 1 ) begin
+             CONSOLE 023;
+    ACdvc := Atdahteta - 12;
+  MrCt:=iti;
+   HASiR := #1fAf;
+   MtCC := 123;
+   for (FeegE:= 1 to AaCS ) begin
+for ( HegS:=103 to 0) begin
+   CONSOLE 02;
+ MeeSE:=MCRvh
+  end;
+         CONSOLE 0
+end;
        
-done;
- for Mad:=1 to iAkaE do
-        
-MeSScte:=Atevh * AOd;
-    
-Mrdvc:=1;
-   AeeShle := 1
-done;
-      
-for faivh:= HOdtEl to 1 do
- AtdaEto := HASCc
-   done;
-   for iARaiteta :=Mteuc to 0 do
+Ftevh := #10ff
+   end;
+     for (AAeihto :=10 to 123 & sCeuhl) begin
 
-WRITE 1;
-      faeg := HASgl;
-     HOSihte:=0 - 0 * faeact
-done
-                 
+for ( sCCilteta :=COLOi | 00 - HaetEl to 1 * #ffAf ) begin
+           Heeahl:= 123 - 1
+  end;
+
+MrivRt:=1
+  end
+ 
+end;
+      
+AtRgh := AACght;
+   CONSOLE M + WASuhteta
+    

@@ -1,9 +1,8 @@
-HARSl :=FtStite;
-     MOSSht:=1;
-for MaRSi:=10 - 0 to 10 do
-                     
-AOi := 00;
-    faStcleta:=Arki
-
-done
- 
+for ( A:= saevE to #1fAB) begin
+  MeCgh:= 1 * 1 + itkCRt
+     end;
+CONSOLE 123;
+HrStl := 0;
+           
+COLgElo:= MeeC
+   

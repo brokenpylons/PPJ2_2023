@@ -1,4 +1,6 @@
-for AORChtota :=1 to faCv * iOeghle do
-    
-WRITE iekiite
- done
+ CONSOLE MtCtht;
+
+AOdihto := 0;
+         
+MCiih :=1
+        

@@ -1,8 +1,6 @@
-for fadal := 0 to 00 do
-sCS :=Meeai;
-         
-HCgthlota:= 1;
-       AtR:= Mtka
-  
-done
-  
+ CONSOLE 103;
+    Hegg := 12 * F;
+CONSOLE 123;
+ CONSOLE AOktR;
+ MOeOclota:= MigC
+          

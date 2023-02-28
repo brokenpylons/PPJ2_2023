@@ -1,23 +1,23 @@
- WRITE 0;
-for ACe:= 0 to 00 * saRuc + 1 do
-      
-for Widac :=1 + i to WikvEt do
-     AeivE:= 0;
-   sOkCE:=1
-    done;
-            AAdullota :=M;
-for HCg :=Wiegct + WikSh - 1 to MORCc + MOeghl do
-  AaRa := 1;
-WRITE 10;
-  AOeSh := MrSvi;
-for AARC:=Wiegct to 00 do
- HaR:=10;
-                     MAda:= MCCg
- done
-   done;
-   
-A:= 1
-     done;
-    
-WRITE MOgght * 00;
- sedg :=WigvEleta
+ faet :=103;
+ WOeCcto := 023 * 103;
+
+for (FekOl:=10 - Mtdgc to 103) begin
+
+iiCOc := 1 & 0;
+WAi:= #10fB
+        end;
+ Mrdgl := 1;
+faSOR :=10 | AaevR - srCai;
+  HrdS := srg;
+sigi := sCCOc & MACS;
+       for (HOCv:= AOiS to Mritht) begin
+   FCegclota := 103;
+          
+for (siSC :=AAiCl - 003 to COLgc + 10) begin
+     
+for (i:=WCetE to 00 ) begin
+MCeScte := MCgS - 103
+end
+  end
+ end
+  

@@ -1,17 +1,21 @@
- for faCa:= Meeg to 1 do
- Aeigh:=0 + MCdille;
-WRITE AtdiEtota;
-        sekvileta := AAd
- done;
-      for faeS :=00 + 10 to Aeg do
-         for Wieu :=1 to AaeCEt + 1 do
-   for MtkShtota:=HCCalt - srdii to 0 do
-         WRITE 0 + Wiki + seRul;
-         Maeaitota :=1
-  done;
-   WRITE 10
+for ( s:=123 to FARSR + 003 ) begin
+  ArCtc:=1;
+    Argt:=MOeOh;
+    for ( Aaei:= 123 to MAdi & iiduEteta) begin
+  
+FCgvct := 0;
+    CONSOLE 1;
+   faiSc :=Aaiui;
+CONSOLE 0 * Mrkihtota
+end;
+sARuRleta := 0 * 103 * #10AB
    
-done;
-MtgC :=1
-done
+end;
+ CONSOLE M;
+ 
+for (FtCtcte :=023 to 1 & 0 ) begin
+     CONSOLE 10
+end;
+    
+AtdC:= 0 - 12
  

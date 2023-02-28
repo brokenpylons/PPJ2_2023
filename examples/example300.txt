@@ -1,17 +1,14 @@
-for fakgl :=0 to 10 do
-   for MCRClt:=MCSv to Atkg do
-  MteSh :=faCtEto * A + 10;
-  for AOeCc:= MAgSiteta to 10 do
-      MrCC:= 0 + MAduito
-     done;
-MCd :=1;
-    
-fadChto :=faRC
- done
-   done;
- WRITE ArSic - 10;
-               for iaeiht :=faSg + 1 to HAivE * stki do
-  
-WRITE AtRviteta
- done
-     
+ iCkSc:=COL - #10AB;
+    Aiiaito:= #fffBff - 12;
+   HAeii:= 1 - 1 & 023 - 10 * 00;
+    Aega:=Mei * COLC;
+  for ( AtS := FCev | COLgR to faRShte | 1 - 103) begin
+      for ( i := COLihtota to AAktR ) begin
+    CONSOLE 103;
+  seeOR := 1
+      end;
+ CONSOLE M
+    end;
+ AiCthtota :=fadgil;
+
+MOiS := COLa

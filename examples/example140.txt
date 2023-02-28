@@ -1,7 +1,9 @@
- sagg := WidSito;
-  for A:=Frevi to 0 do
-AAkvct :=Hrgii * 10 + MtSi;
-      FOevhlota := iARg - 0;
-  iOiiitota:=HAeti
- done;
-     faeih := 0
+irSuRteta :=1;
+faiihl :=#10AB;
+
+CONSOLE HtCOht;
+ MCeSE := 1;
+       for (Mtkihte:= #10fBff * 1 to 0 ) begin
+ HieSi:=HieSc - faSil
+ end
+      

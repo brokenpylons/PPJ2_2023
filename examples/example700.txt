@@ -1,39 +1,33 @@
-for faR:=1 to 0 do
-     faSt:= sARuE * HAgu;
-  ireilt := 1;
-    ArSah:=MeCSh * faethte;
-          for AOdS:= Ftev + 1 to Aagi do
-   MeeCE:= 0 * iOivileta;
-Hrdgh :=sACvitota;
-             Faeilte := 1 - Wie
-   done;
-      for AtdCc:= 1 * 1 - 1 to 0 do
-       for Mag:= 0 to HtiSc + 0 * 1 do
-         ArRS:= 1 + M;
-  
-for MtkC := 1 to AOR * 1 do
-for MOdal:= MrC to H * 10 do
-WRITE Wikti + 10 + 10 - 1
-  done
-       done;
- MeCC :=sriS
-
-done;
-AASuite:= Arev
-  done;
-  WRITE faCSh + 1;
-
-WRITE MAkSlleta;
-   WRITE faRah;
-WRITE MrdSEt + Arg
-          done;
-faRgE:=Atgu - MAeihlota + 1;
-      for MOiCi:=MaeCE - 1 to Htivh do
-       
-faeahto:= 10 - M;
-    AtSiil:= MaR
-
-done;
-     Htevc:= faSvE;
- sOeah:= srg
+for ( sOgvl := Medvi to iOeiR - 1 - Aagv ) begin
+    HaCSh:= MOg;
+ for (HOdgh:=COLu to MCkCl - COLOc ) begin
+  FrguEto:= MrSv;
+         MrSC:=003
+end;
+for (AeeuR:=12 to irkOh - MCeihlota) begin
+         MCealtota := #10Af;
+            Wteghle:=Mtdaite;
+          
+M:=AtiS * s * iiStRlota;
+       for (WCitl:= 1 to 123 | FtSOct ) begin
+    for (fagOi:=iaCOito to MCR * HAe) begin
+  HeRCl:= 0
  
+end
+        end
+             end;
+       for ( MrC:=1 & F to sCiuh) begin
+      COLv:= #f0AB;
+   sOdS:=103
+ end
+     end;
+for (ArCCE:=faSO to 1 ) begin
+   MrRiR := 1 - 1;
+    for (ieea := WedvRteta & M to sre) begin
+  FOkgE:=iidS * 1 * 10 + 003;
+ 
+HCeCRt := #f0fB * 00
+    
+end
+      end;
+AAgSEteta :=0 - Aievc + 1
